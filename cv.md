@@ -4,9 +4,9 @@
 
 #### Contact information:
 
-- **Phone:** +375445775602
+- **Phone:** +48515166220
 - **E-mail:** rakhmanhanna@gmail.com
-- **Telegram:** @AnnaRakhman
+- **Telegram:** @Peppa_pl
 - [LinkedIn](https://www.linkedin.com/in/anna-rakhman-4aa922179/)
 - [GitHub](https://github.com/RakhmanHanna)
 
