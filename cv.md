@@ -23,7 +23,6 @@
 - VS Code
 - Figma
 - Ant-Design
-- React
 
 ### Courses:
 
