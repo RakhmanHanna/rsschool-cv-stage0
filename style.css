@@ -53,3 +53,15 @@ footer img {
   width: 80px;
   padding: 10px;
 }
+@media (max-width: 600px) {
+  .about {
+    width: 30%;
+  }
+  footer {
+    width: 70%;
+  }
+  img {
+    width: 20%;
+    padding: 20px;
+  }
+}
