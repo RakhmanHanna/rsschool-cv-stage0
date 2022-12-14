@@ -60,4 +60,8 @@ footer img {
   footer {
     width: 70%;
   }
+  img {
+    width: 20%;
+    padding: 20px;
+  }
 }
