@@ -73,10 +73,10 @@ a:hover {
   align-items: center;
 }
 .welcome-leafs img {
-  padding: 62px 224px 62px 109px;
+  padding: 62px 224px 62px 0;
 }
 .welcome-text {
-  padding: 98px 109px 94px 0;
+  padding: 98px 0 94px 0;
 }
 .welcome-text h1 {
   font-family: 'Inter';
