@@ -151,11 +151,10 @@ a:hover {
 }
 .service-info {
   display: flex;
-  flex-direction: row;
+  justify-content: flex-start;
   align-items: center;
-  justify-content: space-between;
-  display: flex;
-  align-items: center;
+  width: 1222px;
+  margin: 0 auto;
 }
 .service-info h2 {
   font-family: 'Inika';
@@ -166,18 +165,21 @@ a:hover {
   color: #499a18;
   width: 306px;
   height: 94px;
-  margin: 0;
-  padding: 40px 142px 90px 109px;
+  margin: 40px 123px 90px 0;
 }
-.service-info button {
+.service-info-btns {
+  display: flex;
+}
+.service-info-btns button {
   border: 1px solid #e06733;
   border-radius: 5px;
   background: #edf2ec;
   width: 161px;
   height: 50px;
   padding: 0;
+  margin: 69px 19px 105px;
 }
-.service-info button a {
+.service-info-btns button a {
   font-family: 'Inika';
   font-style: normal;
   font-weight: 400;
@@ -188,11 +190,36 @@ a:hover {
 }
 .service-items {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
+  margin-bottom: 66px;
+  border-radius: 20px 20px 0px 0px;
 }
 .service-item {
-  padding: 0 55px;
+  width: 329px;
+  margin-bottom: 55px;
+  border: 1px solid #e3e1d5;
+  border-radius: 20px 20px 20px 20px;
+  text-align: center;
+}
+.service-item h3 {
+  margin: 10px 0;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #e06733;
+}
+.service-item p {
+  margin-bottom: 36px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #717171;
 }
 
 footer {
