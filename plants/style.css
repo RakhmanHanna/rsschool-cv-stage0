@@ -178,11 +178,6 @@ a:hover {
   height: 50px;
   padding: 0;
   margin: 69px 19px 105px;
-}
-.service-info-btns button:active {
-  background-color: #e06733;
-}
-.service-info-btns button a {
   font-family: 'Inika';
   font-style: normal;
   font-weight: 400;
@@ -191,9 +186,11 @@ a:hover {
   color: #e06733;
   text-decoration: none;
 }
-.service-info-btns button a:active {
+.service-info-btns button:active {
+  background-color: #e06733;
   color: #ffffff;
 }
+
 .service-items {
   display: flex;
   flex-direction: row;
