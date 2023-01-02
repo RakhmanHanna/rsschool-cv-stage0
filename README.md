@@ -1,3 +1,1 @@
-# rsschool-cv2
-https://RakhmanHanna.github.io/rsschool-cv/cv
-https://RakhmanHanna.github.io/rsschool-cv/
+rakhmanhanna-JSFEPRESCHOOL2022Q4
